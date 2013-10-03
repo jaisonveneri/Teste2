@@ -1,0 +1,29 @@
+OK aumentar espaço entre paragrafos na descrição da noticia
+
+OK Noticias renomear para boletins diversos
+
+OK Colocar no menu o link noticias
+
+OK colocar link admin para rogerio enviar fotos
+
+OK salvar as fotos do lightbox
+
+OK colar do word
+
+OK categorias ordenadas no admin igual ao do site
+
+OK adicionar campo autor no admin da noticia
+
+ok alterar para opções no setor de trabalho
+
+OK alterar para seleção de grupos na importação
+
+OK mostrar tamanho da imagem banner no admin
+
+selecionar album no banner e abrir lightbox desse album
+
+OK envir email rogerio sobre envios
+
+OK colocar links com logo na home logo apos os boletins
+
+OK quando fui navegar na area administrativa tive a necessidade que de identificar o que cada botao fazia. teria como colocar uma caixa de texto para indicar o que o botao quando colocado o mouse sobre ele faz
